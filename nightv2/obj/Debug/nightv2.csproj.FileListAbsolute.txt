@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\bin\Debug\nightv2.dll
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\bin\Debug\nightv2.pdb
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\obj\Debug\nightv2.csprojResolveAssemblyReference.cache
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\obj\Debug\nightv2.dll
+c:\users\agando\documents\visual studio 2012\Projects\nightv2\nightv2\obj\Debug\nightv2.pdb
